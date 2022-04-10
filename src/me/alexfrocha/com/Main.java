@@ -19,7 +19,7 @@ public class Main {
 
         if(CPF.validarCPF()) {
             System.out.println();
-            System.out.println("# CPF VÁLIDO! Aqui está ele Formado:");
+            System.out.println("# CPF VÁLIDO! Aqui está ele Formatado:");
             System.out.println(CPF.imprimirCPF());
         } else {
             System.out.println("CPF Inválido!");
