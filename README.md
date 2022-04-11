@@ -11,10 +11,6 @@ Caso o CPF enviado for validado e o retorno tenha sido verdadeiro, o terminal re
 lembrar que o campo "CPF" só aceita o mesmo tipo de informações sem a (formatação) padrão que seria: "123.456.789-10" para que não haja erros.</p>
 <hr>
 <h2>🤔 Como fazer proveito deste repositório?</h2>
-<p>Atualmente há apenas uma forma:</p>
-<br>
-<h4>1 - Utilizando um IDE Java</h4>
-<p>| - Faça o download desse repositório</p>
-<p>| - Abra o local onde esse repositória se localiza com o seu IDE</p>
-<p>| - Entre no Arquivo <b>Main.java</b> e clique na opção <b>Run</b> (Normalmente encontrada na maioria dos IDEs, caso não seja seu caso recomendo utilizar <a href="https://www.eclipse.org">Eclipse</a> ou <a href="https://code.visualstudio.com">VS Code</a>)</p>
-<br>
+<h4>Execute o arquivo .JAR presente no /libs.</h4>
+<p style="display: inline-block;">| - Baixe o Repositório e se direcione até a pasta libs, abra um terminal na pasta e digite o seguinte comando:</p>
+<code>java -jar CPF.jar</code></p>
