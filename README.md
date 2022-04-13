@@ -12,5 +12,5 @@ lembrar que o campo "CPF" só aceita o mesmo tipo de informações sem a (format
 <hr>
 <h2>🤔 Como fazer proveito deste repositório?</h2>
 <h4>Execute o arquivo .JAR presente no /libs.</h4>
-<p style="display: inline-block;">| - Baixe o Repositório e se direcione até a pasta libs, abra um terminal na pasta e digite o seguinte comando:</p>
+<p style="display: inline-block;">1 - Baixe o Repositório e se direcione até a pasta libs, abra um terminal na pasta e digite o seguinte comando:</p>
 <code>java -jar CPF.jar</code></p>
