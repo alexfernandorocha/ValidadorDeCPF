@@ -1,4 +1,4 @@
-package me.alexfrocha.com;
+package me.alexfrocha;
 
 import java.util.InputMismatchException;
 
