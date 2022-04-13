@@ -1,4 +1,4 @@
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=TERMINADO&color=GREEN&style=for-the-badge) <br>
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=ABERTO+PARA+ATUALIZAÇÕES&color=GREEN&style=for-the-badge) <br>
 
 <h2>📑 Validador de CPF</h2>
 <hr>
